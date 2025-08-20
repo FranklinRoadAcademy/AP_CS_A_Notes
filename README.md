@@ -53,16 +53,5 @@ This lab is worth X points in total.
 
 ## Problem 1
 
-Write a method named `isPalindrome` that will accept one String argument. The method should return true if the string is a palindrome. The method should return false if the string is not a palindrome. 
-The input String can be of ANY length and of ANY case.
-
-
-
-
-|Input				|				Expected return value|
-|----------------|-----------------|
-|isPalindrome(“racecar”)		|	true |
-|isPalindrome(“Hello”)     |    false |
-|isPalindrome(“Dad”)		|	true |
-
+Problem desciption here
 

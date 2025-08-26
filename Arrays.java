@@ -137,7 +137,7 @@ public class Arrays {
     //*/
     
     /*
-    String[] teachers = {"Gao", "Bounds", "Posa"};
+    String[] teachers = {"Bounds", "Higdon", "Gardner"};
     for (int i = 0; i < teachers.length; i++) {
       System.out.println(teachers[i].charAt(teachers[i].length() - 1));
     }

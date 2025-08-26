@@ -1,5 +1,5 @@
-# Lab X: Title 
-**Objective: Students will get a brief introduction to GitHub, Codespaces, and how to use them!**
+# Notes 
+**This is intended for review purposes, if you wish to run the code open a **
 
 ## Lab Overview:
 

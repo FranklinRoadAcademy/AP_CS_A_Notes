@@ -50,8 +50,8 @@ public class ArrayLists
 
     ArrayList<String> teachers = new ArrayList<>();
     teachers.add("Bounds");
-    teachers.add("Gao");
-    teachers.add("Posa");
+    teachers.add("Gardner");
+    teachers.add("Higdon");
 
     System.out.println("My favorite teachers: " + teachers);
     System.out.println("The third teacher on my list is: " + teachers.get(2));
@@ -68,7 +68,7 @@ public class ArrayLists
     involves a method belonging to the ArrayList class. 
     */
 
-    teachers.add(1, "Depuit");
+    teachers.add(1, "Bernheisel");
     System.out.println("My favorite teachers: " + teachers);
 
     /*
@@ -76,7 +76,7 @@ public class ArrayLists
     add() will insert the new element so that it has index equal to the parameter.
     Now Dr. DePuit is in index 1!
 
-    Let's say that Mr. Posa has wronged us in some unforgivable way and we want to remove him. 
+    Let's say that Dr. Higdon has wronged us in some unforgivable way and we want to remove her. 
     It's as simple as:
     */
     
@@ -89,12 +89,12 @@ public class ArrayLists
     */
 
     /*
-    Now let's say that Mr. Gao has been found guilty of tax evasion and we want to replace him with Mr. Sakach.
+    Now let's say that Mr. Bounds has been found guilty of tax evasion and we want to replace him with Mr. Mendiola.
     We can use the set(index, Element) method to do this.
     */
 
     /*
-    teachers.set(2, "Sakach");
+    teachers.set(0, "Mendiola");
     System.out.println("My favorite teachers: " + teachers);
     */
 

@@ -74,7 +74,7 @@ public class ArrayLists
     /*
     Add is an "overloaded" method. If we have an integer as the first parameter, 
     add() will insert the new element so that it has index equal to the parameter.
-    Now Dr. DePuit is in index 1!
+    Now Dr. Bernheisel is in index 1!
 
     Let's say that Dr. Higdon has wronged us in some unforgivable way and we want to remove her. 
     It's as simple as:
